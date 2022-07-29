@@ -14,8 +14,8 @@ Site criado no curso da HTML5 e CSS3 da Alura
 <img alt="GitHub Repo stars" src="https://img.shields.io/badge/ HTML - CSS -yellow">
 
 ## Tecnologias utilizadas
-* HTML
-* CSS
+- ``HTML``
+- ``CSS``
 
 ## Descrição do Projeto
 
